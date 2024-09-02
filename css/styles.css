@@ -1,0 +1,41 @@
+#main-logo{
+    display: block;
+    margin: auto;
+    max-width: 200px;
+}
+
+#index-body header{
+    padding: 2em 5px;
+}
+
+#index-body main{
+    min-height: 90vh;
+    background: url('../img/cofisa-bg.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.btn-social-link{
+    background-color: #DF211F;
+    color: white;
+    font-size: 1.3em;
+    padding: 15px 20px;
+    width: 100%;
+    max-width: 450px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 40px;
+    font-weight: 500;
+}
+
+#index-body footer{
+    padding-top: 2em;
+    padding-bottom: 1.5em;
+    background-color: white;
+    font-weight: bold;
+    color: black;
+}
+
+#index-body footer a{
+    color: black;
+}
