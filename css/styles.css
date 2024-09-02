@@ -39,3 +39,8 @@
 #index-body footer a{
     color: black;
 }
+@media (max-width: 767px){
+    .btn-social-link{
+        max-width: 340px;
+    }
+}
