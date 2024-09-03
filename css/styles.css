@@ -39,8 +39,16 @@
 #index-body footer a{
     color: black;
 }
+
 @media (max-width: 767px){
     .btn-social-link{
         max-width: 340px;
+    }
+}
+
+@media (min-width: 991px){
+    main{
+        padding-top: 5rem;
+        padding-bottom: 5rem;
     }
 }
